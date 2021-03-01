@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jadex"/>
+	<classpathentry kind="lib" path="C:/codigo-fonte/programa-java/BDI-Agente-Jadex/lib/asm-all-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/codigo-fonte/programa-java/BDI-Agente-Jadex/lib/ck-0.2.1-SNAPSHOT-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="C:/codigo-fonte/programa-java/BDI-Agente-Jadex/lib/commons-lang3-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/codigo-fonte/programa-java/BDI-Agente-Jadex/lib/jadex-bridge-3.0.95.jar"/>
+	<classpathentry kind="lib" path="C:/codigo-fonte/programa-java/BDI-Agente-Jadex/lib/jadex-commons-3.0.95.jar"/>
+	<classpathentry kind="lib" path="C:/codigo-fonte/programa-java/BDI-Agente-Jadex/lib/jadex-javaparser-3.0.95.jar"/>
+	<classpathentry kind="lib" path="C:/codigo-fonte/programa-java/BDI-Agente-Jadex/lib/jadex-kernel-base-3.0.95.jar"/>
+	<classpathentry kind="lib" path="C:/codigo-fonte/programa-java/BDI-Agente-Jadex/lib/jadex-kernel-bdiv3-3.0.95.jar"/>
+	<classpathentry kind="lib" path="C:/codigo-fonte/programa-java/BDI-Agente-Jadex/lib/jadex-kernel-component-3.0.95.jar"/>
+	<classpathentry kind="lib" path="C:/codigo-fonte/programa-java/BDI-Agente-Jadex/lib/jadex-kernel-micro-3.0.95.jar"/>
+	<classpathentry kind="lib" path="C:/codigo-fonte/programa-java/BDI-Agente-Jadex/lib/jadex-platform-standalone-launch-3.0.95.jar"/>
+	<classpathentry kind="lib" path="C:/codigo-fonte/programa-java/BDI-Agente-Jadex/lib/jadex-rules-eca-3.0.95.jar"/>
+	<classpathentry kind="lib" path="C:/codigo-fonte/programa-java/BDI-Agente-Jadex/lib/jadex-xml-3.0.95.jar"/>
+	<classpathentry kind="lib" path="C:/codigo-fonte/programa-java/BDI-Agente-Jadex/lib/javaparser-core-3.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/codigo-fonte/programa-java/BDI-Agente-Jadex/lib/javaparser-core-3.7.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
